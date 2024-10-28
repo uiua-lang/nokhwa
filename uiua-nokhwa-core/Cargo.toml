@@ -24,7 +24,7 @@ thiserror = "1.0"
 
 [dependencies.image]
 default-features = false
-version = "0.24"
+version = "0.25"
 
 [dependencies.serde]
 features = ["derive"]
